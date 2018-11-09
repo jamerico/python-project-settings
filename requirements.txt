@@ -1,0 +1,13 @@
+facets
+flake8
+keras
+matplotlib
+numpy
+pandas
+pep8
+plotly
+pycodestyle
+pycodestyle
+pylint
+scikit-learn
+xlrd
